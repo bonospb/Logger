@@ -1,0 +1,18 @@
+{
+    "name": "ru.freeteam.logger",
+    "author": "FreeTeamRu",
+    "displayName": "FreeTeamRu Logger",
+    "description": "Logger - simple logger.",
+    "unity": "2020.3",
+    "version": "1.0.0",
+    "keywords": [
+        "logger",
+        "log",
+        "logging"
+    ],
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bonospb/Logger.git"
+    }
+}
